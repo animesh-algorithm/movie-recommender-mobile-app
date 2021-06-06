@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819580874183",
+    "project_id": "moviebuzz-7bf78",
+    "storage_bucket": "moviebuzz-7bf78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819580874183:android:fef26caa91a9807a577de2",
+        "android_client_info": {
+          "package_name": "com.example.moviebuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819580874183-nd6mg58b4c92na1dojjtt5584bmpg5tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiREVw0u5-eBzInIPdi4RBlKRCfqH5qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819580874183-nd6mg58b4c92na1dojjtt5584bmpg5tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
